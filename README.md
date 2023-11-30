@@ -1,0 +1,2 @@
+# Subnet-Sensei-APK
+This is the APK file for the subnet sensei application created by THE SAMITI 
